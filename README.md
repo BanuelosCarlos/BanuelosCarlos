@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌, I'm Alexis Bañuelos</h1>
-<h3 align="center">A MSc in Physics stundent and Data Scientist Padawan</h3>
+<h3 align="center">A MSc in Physics student and Data Scientist Padawan</h3>
 
 - 🔭 I’m currently working on [my own Data Science portfolio using Julia, Python, Azure, and more...](https://github.com/BanuelosCarlos?tab=repositories)
 
