@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✌, I'm Alexis Bañuelos</h1>
-<h3 align="center">A MSc in Physics student and Data Scientist Padawan</h3>
+<h3 align="center">Physicist and Data Scientist</h3>
 
-- 🔭 I’m currently working on [my own Data Science portfolio using Julia, Python, Azure, and more...](https://github.com/BanuelosCarlos?tab=repositories)
+- 🔭 I’m currently growing my own [Data Science portfolio using Julia, Python, Azure, and more...](https://github.com/BanuelosCarlos?tab=repositories)
 
-- 🌱 I plan to learn **Databricks, XGBoost and other data tools to improve my skills**
+- 🌱 I plan to learn **Databricks and other data tools to improve my skills**
 
 - 📫 How to reach me **banueloscarlosa@gmail.com**
 
