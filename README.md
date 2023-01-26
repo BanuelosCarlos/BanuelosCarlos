@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently growing my own [Data Science portfolio using Julia, Python, Azure, and more...](https://github.com/BanuelosCarlos?tab=repositories)
 
-- 🌱 I'm learning **Databricks on Azure and other data tools to improve my skills**
+- 🌱 I'm learning **Severless ML and BI tools to improve my knowledge**
 
 - 📫 How to reach me **banueloscarlosa@gmail.com**
 
