@@ -1,9 +1,10 @@
-<h1 align="center">Hi ✌, I'm Alexis Bañuelos</h1>
-<h3 align="center">Physicist and Data Scientist</h3>
+<h1 align="center">Hello! I'm Alexis Bañuelos</h1>
+<h3 align="center">Physicist and Data Professional</h3>
 
-- 🔭 I’m currently growing my own [Data Science portfolio using Julia, Python, Azure, and more...](https://github.com/BanuelosCarlos?tab=repositories)
+- 🔭 My objective is to harness my expertise to unearth valuable insights from intricate datasets. With a robust background in designing, automating, and optimizing data pipelines using Python, I adeptly integrate data from diverse sources, including SQL, NoSQL databases and techniques of web scraping, for seamless extraction, transformation, and loading into cloud-based data warehouses while upholding data governance principles. I excel at crafting and overseeing interactive dashboards in Looker Studio, tailored precisely to meet stakeholders' requirements, currenly I am developing my generative AI knowledge designing tools that help to solve differenct problems 🤖:.
 
-- 🌱 I'm learning **Severless ML and BI tools to improve my knowledge**
+Technologies: Python, SQL, CouchDB, BigQuery, Google Analytics, GCP, Azure, Github, OpenAI.
+
 
 - 📫 How to reach me **banueloscarlosa@gmail.com**
 
